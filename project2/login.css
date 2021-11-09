@@ -1,0 +1,17 @@
+#b {
+  background-image: url(photos/login.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+}
+.container {
+  margin-top: 10%;
+}
+a {
+  text-decoration: none;
+}
